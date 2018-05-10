@@ -1,0 +1,39 @@
+=======================================Dataset Carros========================================
+----------------------------------------OBSERVAÇÕES------------------------------------------
+
+- Correlacionar var. categóricas e contínuas: 
+			- como posso fazer isso?
+
+- Como escolher quais var. são mais significativas para a PCA?
+
+- Procurar sobre R2 (coeficiente de determinação) e Erro médio quadrático:
+
+			- sqrt(R2)>>correlações
+
+- Pca com pca: utilizar o resultado do 1o pca para fazer um 2o pca, com outras var.
+
+- Pc1xPc2: gráfico do espalhamento de pc1 e pc2, discriminado pelo risco
+			- classificação?
+
+- Outliers: analisar a possibilidade de dados espúrios e como tratá-los
+
+- Como fazer uma classificação do risco? Treinamento de máquina
+
+
+=======================================Dataset Churn=========================================
+----------------------------------------OBSERVAÇÕES------------------------------------------
+
+- Distribuição de Balance: 
+			- pico em 0 é real? 
+			- dos clientes com saldo 0, qtos produtos tem? quantos deixaram o banco?
+
+- Como ter certeza que a distr. de idade da Alemanha tende a ser maior? Como comprovar? 
+			- Boxplots?
+			- Violinplot?
+			- Probabilidade: qual a prob. de um alemão c/ idade > limite x?
+
+- Taxa de rotatividade:
+			- Qual a propenção de um cliente sair do banco?
+			- Qual a prob. de um cliente sair do banco, dadas as condições X,Y e Z?
+
+- Outliers
