@@ -1,4 +1,4 @@
-==========================================================Dataset Carros=====================================================
+﻿==========================================================Dataset Carros=====================================================
 -----------------------------------------------------------OBSERVAÇÕES-------------------------------------------------------
 
 - Correlacionar var. categóricas e contínuas: 
@@ -6,7 +6,7 @@
 
 - Como escolher quais var. são mais significativas para a PCA?
 
-- Procurar sobre R2 (coeficiente de determinação) e Erro médio quadrático:
+- Procurarr sobre R2 (coeficiente de determinação) e Erro médio quadrático:
 
 			- sqrt(R2)>>correlações
 
