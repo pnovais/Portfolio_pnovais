@@ -1,2 +1,2 @@
-# keyrus
-Repo apenas para brincar com uns dados
+# Portfolio
+Repository with some explorations and data modeling.
